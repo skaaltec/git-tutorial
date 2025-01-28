@@ -1,8 +1,8 @@
+![My Project Logo](./repoimg.jpg)
+
 # Git Tutorial Repository 🚀
 
 Welcome to the **Git Tutorial Repository**! This repo is powered by [DeepSeek](https://www.deepseek.com/) ai and designed to help you learn Git, a distributed version control system that allows developers to track changes in their code, collaborate seamlessly, and manage projects efficiently. Whether you're new to Git or brushing up your skills, this tutorial will guide you through essential concepts and workflows.
-
-
 
 ## 📚 What is Git?
 
