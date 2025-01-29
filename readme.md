@@ -20,7 +20,7 @@ This repository includes hands-on examples and a [cheatsheet](https://github.com
 ### 1. Clone the Repository
 To get started, clone this repo to your local machine:
 ```bash
-git clone https://github.com/your-username/git-tutorial.git
+git clone https://github.com/arwinux/git-tutorial.git
 cd git-tutorial
 ```
 
